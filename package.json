@@ -1,7 +1,6 @@
 {
   "name": "sagemedia",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -9,19 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kanweitech/sagemedia.git"
+    "url": "git+https://github.com/falope/sage.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kanweitech/sagemedia/issues"
+    "url": "https://github.com/falope/sage/issues"
   },
-  "homepage": "https://github.com/kanweitech/sagemedia#readme",
+  "homepage": "https://github.com/falope/sage#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "description": ""
 }
