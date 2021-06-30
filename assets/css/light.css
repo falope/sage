@@ -193,14 +193,14 @@ a:hover {
 }
 
 h1 {
-    /* font-family: 'Playfair Display', serif; */
+    /* font-family: 'calibri'; */
     font-size: 50px;
     font-weight: 900;
     color: #000;
 }
 
 h2 {
-    /* font-family: 'Playfair Display', serif; */
+    /* font-family: 'calibri'; */
     font-size: 24px;
     font-weight: 900;
     color: #1e272c;
@@ -211,6 +211,7 @@ h3 {
     letter-spacing: 1px;
     color: #1e272c;
     font-weight: 700;
+    font-family: 'calibri';
 
 }
 
@@ -227,7 +228,7 @@ h1 span {
 
 .title h2 {
     font-size: 50px;
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'calibri';
     font-weight: 800;
     color: #000;
 
@@ -242,6 +243,7 @@ h1 span {
     letter-spacing: 0;
     color: #000000;
     font-size: 40px;
+    font-family:'calibri';
 
 }
 
@@ -277,6 +279,7 @@ p {
     font-size: 16px;
     color: #000;
     line-height: 1.8;
+    font-family:'calibri';
 }
 
 p.sub-title {
@@ -286,6 +289,7 @@ p.sub-title {
     font-weight: 500;
     line-height: 25px;
     color: #7b8b8e;
+    font-family:'calibri';
 }
 
 body {
@@ -401,7 +405,7 @@ body {
     letter-spacing: 3px;
     font-size: 60px;
     font-weight: 900;
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'calibri';
 }
 
 .hero-title h3 {
@@ -477,6 +481,7 @@ body {
     padding: 15px 34px;
     color: #000;
     transition: all ease .5s;
+    font-family:'calibri';
 }
 
 .btn-main:hover {
@@ -614,7 +619,7 @@ ul {
 }
 
 a.menu-link {
-    font-family: 'Playfair Display', serif;
+    font-family: 'calibri';
     display: inline-block;
     text-decoration: none;
     color: #000;
@@ -649,14 +654,14 @@ a.menu-link.active {
 }
 
 .address-menu h3 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'calibri';
     font-size: 30px;
     color: #000000;
     font-weight: 600;
 }
 
 .address-menu h4 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'calibri';
     color: #000;
     font-size: 30px;
     opacity: .5;
@@ -781,6 +786,7 @@ a.menu-link.active {
     display: block;
     color: #000;
     margin: 10px 0;
+    font-family:'calibri';
 }
 
 
@@ -839,7 +845,7 @@ span.number {
 
 
 .detail-project h3 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'calibri';
     margin: 0;
     font-size: 24px;
     font-weight: 900;
@@ -1066,7 +1072,7 @@ p.author-text {
 
 .team-text h3 {
     color: #000;
-    font-family: 'Playfair Display', serif;
+    font-family: 'calibri';
     font-size: 20px;
     letter-spacing: 1px;
     font-weight: 900;
@@ -1176,7 +1182,7 @@ ul.arrows li {
 }
 
 .contact-item h3 span {
-    font-family: 'Playfair Display', serif;
+    font-family: 'calibri';
     color: #808080;
     font-style: italic;
 }
@@ -1200,11 +1206,13 @@ a.mail {
     font-size: 16px;
     color: #000;
     font-weight: 400;
+    font-family:'calibri';
 }
 
 a.phone {
     font-weight: 600;
     letter-spacing: 1px;
+    font-family:'calibri';
 }
 
 .contact-item .social li {
@@ -1212,7 +1220,7 @@ a.phone {
 }
 
 .copyright h3 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'calibri';
     color: #000;
 
 }
