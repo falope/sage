@@ -911,16 +911,20 @@ span.number {
     color: #000;
     font-size: 16px;
     font-weight: 300;
+    font-family: 'calibri';
+    text-align: justify;
 }
 
 .about-text h4 {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'calibri';
     letter-spacing: 2px;
     font-size: 30px;
     letter-spacing: 0px;
     font-weight: 400;
     color: #000;
     padding-bottom: 20px;
+    text-align: justify;
+    width:549px;
 }
 
 
