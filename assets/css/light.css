@@ -74,13 +74,13 @@ a:hover {
     width: 100%;
     position: fixed;
     z-index: 9999;
-    background: #000;
+    background: rgb(12, 12, 12);
     bottom: 0;
     right: 0;
 }
 
 .bg-over {
-    background: rgba(24, 35, 40, 0.831);
+    background: rgba(125, 143, 151, 0.831);
 }
 
 .bg-cyan {
@@ -349,7 +349,7 @@ body {
 }
 
 
-.line-col {
+/*.line-col {
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
     -webkit-backface-visibility: hidden;
@@ -360,9 +360,9 @@ body {
     position: fixed;
     top: 0;
     width: 1px;
-    background: rgba(0, 0, 0, .2);
+    background: rgba(241, 241, 241, 0.144);
     z-index: -4;
-}
+}*/
 
 .line-col.first {
     left: 10%;
@@ -441,7 +441,7 @@ body {
     right: 0;
     position: absolute;
     background: url('../img/bg-hero.png') no-repeat center center;
-    background-size: cover;
+    background-size: contain;
 }
 
 .square-overlay {
@@ -528,7 +528,7 @@ body {
     z-index: 1000 !important;
 }
 
-.toggle-btn::before {
+/*.toggle-btn::before {
     content: 'DIGITAL CREATIVE AGENCY';
     position: absolute;
     width: 180px;
@@ -536,7 +536,7 @@ body {
     letter-spacing: 2px;
     color: #000;
     right: 60px;
-}
+}*/
 
 
 .one {
