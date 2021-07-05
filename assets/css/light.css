@@ -444,7 +444,7 @@ body {
     width: 50%;
     right: 0;
     position: absolute;
-    background: url('../img/bg-hero1.png') no-repeat center center;
+/*background: url('../img/bg-hero1.png') no-repeat center center;*/
     background-size: contain;
 }
 
@@ -455,7 +455,7 @@ body {
     width: 50%;
     right: 0;
     position: absolute;
-    background: url('../img/bg-hero.png') no-repeat center center;
+/*background: url('../img/bg-hero.png') no-repeat center center;*/
     background-size: contain;
 }
 
