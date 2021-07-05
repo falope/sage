@@ -40,6 +40,18 @@
     }
     .hero-title {
         padding: 0 30px;
+        margin-bottom:250px;
+        margin-right:100px;
+    }
+    .square {
+        display:none;
+    
+    }
+
+    #preloader {
+        position:absolute;
+        right:50px;
+        bottom:50px;
     }
 
     .title h2 {
